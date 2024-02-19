@@ -1,0 +1,32 @@
+.container{
+    border: 1px solid black;
+    height: 300px;
+    width: 220px;
+    float: left;
+    margin-left: 30px;
+    text-align: center;
+  /
+    /* visibility: hidden; */
+    
+}
+#container{
+    display: none;
+}
+.container p a{
+    text-decoration: none;
+    color: white;
+    width: 100px;
+    
+}
+.container p {
+    background-color: green;
+    width: 200px;
+    height: 30px;
+    padding-top: 15px;
+    margin-left: 10px;
+    border-radius: 5px;
+    
+}
+#container2{
+    visibility: hidden;
+}
